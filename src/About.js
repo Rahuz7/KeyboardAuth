@@ -12,7 +12,7 @@ class About extends React.Component {
                     <li>MERZOUGUI Dhia</li>
                     <li>MERCIER Julien</li>
                 </ul>
-                <a href="https://github.com/HikariLight/KeyboardAuth">GitHub Repo</a>
+                <a href="https://github.com/Rahuz7/KeyboardAuth">GitHub Repo</a>
             </main>
         );
     }
