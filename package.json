@@ -2,7 +2,7 @@
   "name": "key-bio",
   "version": "0.1.0",
   "private": true,
-  "type":"module",
+  "type": "module",
   "dependencies": {
     "@tensorflow/tfjs": "^3.6.0",
     "@testing-library/jest-dom": "^5.12.0",
